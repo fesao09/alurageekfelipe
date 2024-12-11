@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1fbd",
+      "name": "Xbox Series X 1TB",
+      "price": "4500,00",
+      "image": "https://www.elgiganten.dk/image/dv_web_D180001002520756/218667/xbox-series-x-1-tb-sort.jpg"
+    },
+    {
+      "id": "a582",
+      "name": "Playstation 5 1TB",
+      "price": "3500,00",
+      "image": "https://a-static.mlcdn.com.br/800x560/console-playstation-5-slim-sony-ssd-1tb-edicao-digital-com-controle-sem-fio-dualsense-branco-2-jogos-digitais/primetek/027009/ccd4931304dfcbe125d39a51b46ca83a.jpeg"
+    },
+    {
+      "id": "4f41",
+      "name": "Nintendo Switch 64gb",
+      "price": "2100,00",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_748313-MLA76536068094_052024-O.webp"
+    },
+    {
+      "id": "b23b",
+      "name": "Nintendo 64 Standard",
+      "price": "640,00",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_872569-MLA74782475771_022024-O.webp"
+    },
+    {
+      "id": "b1c1",
+      "name": "Playstation 3 250gb",
+      "price": "600,00",
+      "image": "https://i5.walmartimages.com/asr/7a12e9c5-63a8-4515-ad77-b280b4a33cd8_1.40cf5ebcb3a1223c4220922d01d64efb.jpeg"
+    },
+    {
+      "id": "0cad",
+      "name": "Super Nintendo",
+      "price": "1000,00",
+      "image": "https://th.bing.com/th/id/OIP.dt0sO0xZZGb6-Sm2C9N6owHaFh?w=234&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "id": "3be1",
+      "name": "Super Mario World Original",
+      "price": "500,00",
+      "image": "https://th.bing.com/th/id/R.d5cca89751def5c0eb0531b5161633b4?rik=Lp2pgFfn%2bH0P7w&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "ee5d",
+      "name": "007 GoldenEye N64",
+      "price": "250,00",
+      "image": "https://i5.walmartimages.com/asr/d9a7b143-814f-4e83-ba3a-9d0ab4b2c551.a405ae793f2514393d98dcc74fd92324.jpeg?odnHeight=320&odnWidth=320&odnBg=FFFFFF"
+    },
+    {
+      "id": "f847",
+      "name": "Game Cube",
+      "price": "800,00",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "7b9b",
+      "name": "Game Boy Color",
+      "price": "450,00",
+      "image": "https://s3.amazonaws.com/images.ecwid.com/images/17412255/2767777103.jpg"
+    }
+  ]
+}
