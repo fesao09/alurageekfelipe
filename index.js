@@ -7,5 +7,13 @@ server.use(middlewares);
 server.use(router);
 
 module.exports = (req, res) => {
-  server(req, res);
+  console.log('Request received');
+  server(req, res, (err) => {
+    if (err) {
+      console.error('Error occurred:', err);
+      res.status(500).send('Internal Server Error');
+    } else {
+      console.log('Request handled successfully');
+    }
+  });
 };
